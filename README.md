@@ -12,7 +12,7 @@ A modern, responsive website built for DreamCatchers WorldWide—a non-profit or
 
 ## 📌 Project Overview
 
-This site was redesigned and developed from scratch as part of a volunteer initiative via Volunteers Auckland. The goal was to create a user-friendly, maintainable platform that the organization’s non-technical team could easily manage and update.
+This site was redesigned and developed from scratch as part of a volunteer initiative via Volunteers Auckland.  The goal was to create a user-friendly, maintainable platform that the organization’s non-technical team could easily manage and update.
 
 ---
 
