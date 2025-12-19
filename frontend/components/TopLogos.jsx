@@ -16,7 +16,7 @@ export default function TopLogos() {
 
   if (!hasMounted) return null
   return (
-    <div className="pt-5 grid grid-cols-3 grid-rows-1 gap-4 relative lg:mx-50 md:mx-30 sm:mx-10 px-4 text-black overflow-hidden">
+    <div className="pt-5 lg:pb-5 grid grid-cols-3 grid-rows-1 gap-4 relative lg:mx-50 md:mx-30 sm:mx-10 px-4 text-black overflow-hidden">
       <div className="flex justify-start">
         {isUK ? <SimplyConnectLogo /> : <VolunteeringAucklandLogo />}
       </div>
